@@ -14,10 +14,10 @@ header{
     color: white;
     background: linear-gradient(15deg,
     #0f9b0f,#4574ff);
-    height: 12vh;
+    height: 10vh;
 }
 header img{
-    height: 12vh;
+    height: 10vh;
     width: auto;
     padding-left: 5px;
 }
